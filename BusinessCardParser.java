@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 public class BusinessCardParser {
 	public static void main(String args[]) throws FileNotFoundException
 	{
-		ContactInfo info = getContactInfo("/Users/Ben/Desktop/TestData/ex3.txt");
+		ContactInfo info = getContactInfo("path"); //add path to file here
 		
 		System.out.println("Name: " + info.getName());
 		System.out.println("Phone: " + info.getPhoneNumber());
