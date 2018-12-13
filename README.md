@@ -65,7 +65,7 @@ When checking if a sequence string is a name, the following requirements must be
 - EITHER the full first name OR the full last name must be found in the prefix
 
 If all of the requirements are met, the first and last name are combined into one String and the Scanner will stop scanning through the rest of the text file.
-=
+
 ## Limitations:
 
 - If two emails are included, only the first email on the card will be recorded.
