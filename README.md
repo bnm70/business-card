@@ -1,4 +1,6 @@
 # business-card-parser
+Used as a training exercise for a past internship.
+
 The BusinessCardParser class takes a text file with information from a business card and finds the name, email, and phone of the card's owner. BusinessCardParser relies on instances of the ContactInfo class to store the data from each business card.
 
 ## Introduction
